@@ -1,0 +1,184 @@
+[
+  {
+    "jogo_id": 2,
+    "grupo": "A",
+    "dados": {
+      "estrategia": "Comparação Par a Par",
+      "sequencia_inicial": [
+        5,
+        2,
+        8,
+        1,
+        4
+      ],
+      "resultado": [
+        1,
+        2,
+        4,
+        5,
+        8
+      ],
+      "comparacoes": 10,
+      "trocas": 6
+    }
+  },
+  {
+    "jogo_id": 2,
+    "grupo": "A",
+    "dados": {
+      "estrategia": "Busca pelo Menor Valor",
+      "sequencia_inicial": [
+        5,
+        2,
+        8,
+        1,
+        4
+      ],
+      "resultado": [
+        1,
+        2,
+        4,
+        5,
+        8
+      ],
+      "comparacoes": 10,
+      "trocas": 2
+    }
+  },
+  {
+    "jogo_id": 2,
+    "grupo": "1",
+    "dados": {
+      "estrategia": "Comparação Par a Par",
+      "sequencia_inicial": [
+        5,
+        2,
+        8,
+        1,
+        4
+      ],
+      "resultado": [
+        1,
+        2,
+        4,
+        5,
+        8
+      ],
+      "comparacoes": 10,
+      "trocas": 6
+    }
+  },
+  {
+    "jogo_id": 2,
+    "grupo": "1",
+    "dados": {
+      "estrategia": "Busca pelo Menor Valor",
+      "sequencia_inicial": [
+        5,
+        2,
+        8,
+        1,
+        4
+      ],
+      "resultado": [
+        1,
+        2,
+        4,
+        5,
+        8
+      ],
+      "comparacoes": 10,
+      "trocas": 2
+    }
+  },
+  {
+    "jogo_id": 3,
+    "grupo": "A",
+    "dados": {
+      "item_escolhido": "Quadrado",
+      "item_identificado": "Quadrado",
+      "quantidade_perguntas": 1,
+      "acertou": true
+    }
+  },
+  {
+    "jogo_id": 3,
+    "grupo": "A",
+    "dados": {
+      "item_escolhido": "Círculo",
+      "item_identificado": "Círculo",
+      "quantidade_perguntas": 2,
+      "acertou": true
+    }
+  },
+  {
+    "jogo_id": 3,
+    "grupo": "A",
+    "dados": {
+      "item_escolhido": "Círculo",
+      "item_identificado": "Círculo",
+      "quantidade_perguntas": 2,
+      "acertou": true
+    }
+  },
+  {
+    "jogo_id": 3,
+    "grupo": "A",
+    "dados": {
+      "item_escolhido": "Triângulo",
+      "item_identificado": "Triângulo",
+      "quantidade_perguntas": 2,
+      "acertou": true
+    }
+  },
+  {
+    "jogo_id": 2,
+    "grupo": "A",
+    "dados": {
+      "estrategia": "Comparação Par a Par",
+      "sequencia_inicial": [
+        5,
+        2,
+        8,
+        1,
+        4,
+        7
+      ],
+      "resultado": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8
+      ],
+      "comparacoes": 15,
+      "trocas": 7
+    }
+  },
+  {
+    "jogo_id": 2,
+    "grupo": "A",
+    "dados": {
+      "estrategia": "Busca pelo Menor Valor",
+      "sequencia_inicial": [
+        5,
+        2,
+        8,
+        1,
+        4,
+        7
+      ],
+      "resultado": [
+        1,
+        2,
+        4,
+        5,
+        7,
+        8
+      ],
+      "comparacoes": 15,
+      "trocas": 3
+    }
+  }
+]
